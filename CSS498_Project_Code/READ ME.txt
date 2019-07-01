@@ -1,0 +1,18 @@
+*********** Whats in the folders *********
+The Code file contains all code used for this project, sperated into three folders:
+	Database Scripts -includes creation and insert scripts for 
+	tables and a movies.csv file used to import movie data
+	
+	GUI - includes all python files used to create the GUI
+
+	ProcessData - includes the python function used to process 	the movies.csv data file
+
+The CSS498_GUI file contains the original Visual Studio code for viewing and running the code within VS.
+
+*********** Running the Code ************
+To run the file outside of Visual Studio environment
+go to directory for Code/GUI and run with
+
+python CSS498_GUI.py
+
+Must have Python, PyQt5 and PyMySQL installed
